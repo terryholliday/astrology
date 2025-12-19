@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "trueark-ephemeris": {
+      "command": "python",
+      "args": ["mcp_server.py"],
+      "cwd": "c:/Users/TERRYHOLLIDAY/Desktop/EPHEMERIS ENGINE/astrology",
+      "env": {
+        "TRUEARK_API_URL": "https://api.trueark.io"
+      }
+    }
+  }
+}
